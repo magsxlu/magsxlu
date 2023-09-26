@@ -1,0 +1,70 @@
+<html>
+<head>
+<style>
+header
+{background-color: #5ce1f4;
+  font-family: "copperplate", fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: 25%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: right;
+}
+footer
+{background-color: #5ce1f4;
+  font-family: "copperplate", fantasy;
+  font-size: 1em;
+}
+</style>
+<body>
+  <header> <center>Maggie Lu</center></header>
+<h4><center>120 Boylston Street<br> Boston, MA 02116<br>
+  (917)-690-0722<br>
+  maggie_lu@emerson.edu
+</center></h4>
+
+<aside>
+  <h3>Programs:</h3>
+    Adobe Creative Cloud<br>
+    Canva<br>
+    Google Workspace<br>
+    Microsoft Suite<br>
+  Wordpress<br>
+<br>
+  <h3>Languages:</h3>
+  <b>English:</b> Fluent <br>
+  <b>Chinese:</b> Conversational <br>
+  <b>Spanish:</b> Conversational <br>
+  <br>
+  <h3>Skills:</h3>
+  <br>
+</aside>
+<section id="summary">
+  <h2><u>Work Experience</u>:</h2>
+  <h3>Doubleink, Remote—<i>Editorial Intern</i><h4>(May 2022–Present)</h4></h3>
+-Editing and proofreading manuscripts<br>
+-Using library programs and technology to ensure an informative visit<br>
+-Participating in internal and client meetings<br>
+  <h3>Iwasaki Library, Boston—<i>Service Desk Leader</i><h4>(September 2021–Present)</h4></h3>
+-Helping patrons in the Iwasaki library with inquiries and requests<br>
+-Using library programs and technology to ensure an informative visit<br>
+-Facilitating the training and managing of new staff members<br>
+  <h3>Starbucks, Boston—<i>Barista</i><h4>(September 2021–Present)</h4></h3>
+-Memorizing multiple drink recipes across seasonal and classic menus<br>
+-Serving orders and helping customers in a fast-paced environment
+<br>
+-Communicating with others to ensure a clean and efficient workspace<br>
+ 
+<section id="education">
+<h2><u>Education</u>:</h2>
+  <h3>Emerson College, Boston</h3> 
+  Class of 2023; BA in Publishing and Writing<br>
+  Class of 2024; MA in Publishing and Writing
+  </section>
+</body>
+</head>
+</html>
